@@ -5,14 +5,6 @@ app speaker   = Say words on an android phone when the user taps the desired phr
   email     = philiprbrenan@gmail.com
 
 
-# Details of photo icon-1-512
-photo icon1512 = Title of icon-1-512
-  url = icon-1-512.png
-
-fact icon1512.1 = First fact about icon-1-512
-fact icon1512.2 = Another fact about icon-1-512
-
-
 # Details of photo icon
 photo icon = Title of icon
   url = icon.jpg
