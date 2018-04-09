@@ -1,4 +1,4 @@
-app speaker     =  App to say things for patients
+app speaker     = App to say things for patients
   description   = Say common things for people who have lost their voices
   author        = philiprbrenan
   email         = philiprbrenan@gmail.com
