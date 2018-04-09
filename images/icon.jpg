@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vocabulary to S3
+Comment=Back up vocabulary to S3
+Path=/home/phil/vocabulary
+Exec=/usr/bin/perl  /home/phil/vocabulary/supportingDocumentation/perl/genApp.pm --backup
+Icon=/home/phil/vocabulary/supportingDocumentation/images/Jets/Hawk.jpg
+Terminal=true
+Type=Application
+Categories=GTK;GNOME;Utility;
