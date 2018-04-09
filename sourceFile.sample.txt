@@ -12,3 +12,11 @@ photo icon1512 = Title of icon-1-512
 fact icon1512.1 = First fact about icon-1-512
 fact icon1512.2 = Another fact about icon-1-512
 
+
+# Details of photo icon
+photo icon = Title of icon
+  url = icon.jpg
+
+fact icon.1 = First fact about icon
+fact icon.2 = Another fact about icon
+
