@@ -1,1 +1,20 @@
-# Place your app description in this file
+app speaker     = App to say things for patients
+  description   = Say common things for people who have lost their voices
+  author        = philiprbrenan
+  email         = philiprbrenan@gmail.com
+
+
+photo yes = yes 
+  afewchars = Yes
+
+photo no = no 
+  afewchars = No
+
+photo help = help
+  afewchars = Help, I cannot speak
+
+photo hungry = hungry 
+  afewchars = I need glucose immediately
+
+photo thirsty = thirsty 
+  afewchars = I need water imnmediately
