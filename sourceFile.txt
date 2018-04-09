@@ -5,17 +5,17 @@ app speaker     = App to say things for patients
   icon     = icon.jpg
 
 
-photo yes = yes 
+photo yes = Yes 
   afewchars = Yes
 
-photo no = no 
+photo no = No 
   afewchars = No
 
-photo help = help
-  afewchars = Help, I cannot speak
+photo help = Help, I cannot speak
+  afewchars = Help
 
-photo hungry = hungry 
-  afewchars = I need glucose immediately
+photo hungry = I need something to eat as I am very hungry
+  afewchars = Hungry
 
-photo thirsty = thirsty 
-  afewchars = I need water imnmediately
+photo thirsty = I need water immediately 
+  afewchars = Thirsty
