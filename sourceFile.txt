@@ -3,7 +3,7 @@ app speaker     = App to say things for patients
   author        = philiprbrenan
   email         = philiprbrenan@gmail.com
   icon      = icon.jpg
-  speaker = Brian
+  speaker  = Brian
 
 
 photo yes = Yes 
