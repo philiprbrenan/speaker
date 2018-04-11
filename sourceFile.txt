@@ -3,7 +3,7 @@ app speaker     = App to say things for patients
   author        = philiprbrenan
   email         = philiprbrenan@gmail.com
   icon      = icon.jpg
-  speaker = yes
+  speaker = Brian
 
 
 photo yes = Yes 
@@ -15,8 +15,8 @@ photo no = No
 photo help = Help, I cannot speak
   afewchars = Help
 
-photo hungry = I need something to eat as I am very hungry
+photo hungry = I need something to eat
   afewchars = Hungry
 
-photo thirsty = I need water immediately 
+photo thirsty = I need some water 
   afewchars = Thirsty
