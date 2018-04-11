@@ -2,21 +2,15 @@ app speaker     = App to say things for patients
   description   = Say common things for people who have lost their voices
   author        = philiprbrenan
   email         = philiprbrenan@gmail.com
-  icon       = icon.jpg
-  speaker  = Brian
-
+  icon          = icon.jpg
+  speaker       = Brian
 
 photo yes = Yes 
-  afewchars = Yes
 
 photo no = No 
-  afewchars = No
 
 photo help = Help, I cannot speak
-  afewchars = Help
 
 photo hungry = I need something to eat
-  afewchars = Hungry
 
 photo thirsty = I need some water 
-  afewchars = Thirsty
