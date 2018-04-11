@@ -5,12 +5,12 @@ app speaker     = App to say things for patients
   icon          = icon.jpg
   speaker       = Brian
 
-photo yes = Yes 
+photo yes       = Yes 
 
-photo no = No 
+photo no        = No 
 
-photo help = Help, I cannot speak
+photo help      = Help, I cannot speak
 
-photo hungry = I need something to eat
+photo hungry    = I need something to eat
 
-photo thirsty = I need some water 
+photo thirsty   = I need some water 
