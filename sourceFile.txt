@@ -5,7 +5,7 @@ app speaker     = App to say things for patients
   icon          = icon.jpg
   speaker       = Brian
 
-photo yes       =  Yes 
+photo yes       = Yes 
 
 photo no        = No 
 
